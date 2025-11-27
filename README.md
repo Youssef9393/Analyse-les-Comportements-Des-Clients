@@ -20,6 +20,7 @@ review_rating	Rating (1–5)
 shipping_type	Standard / Express
 subscription_status	Subscriber or not
 previous_purchases	Past purchases count
+
 🎯 Objectives
 
 ✔ Analyze customer spending trends
