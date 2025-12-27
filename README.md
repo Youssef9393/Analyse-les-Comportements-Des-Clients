@@ -75,7 +75,7 @@ Q10 | Revenue contribution by age group |
 | Tool | Purpose |
 |------|--------|
 SQL | Data analysis & querying |
-MySQL / PostgreSQL / SQLite | Database |
+PostgreSQL | Database |
 Power BI / Tableau | Visualization (optional) |
 GitHub | Documentation & version control |
 
@@ -96,6 +96,7 @@ It is designed as a **portfolio project** for Data Analyst / Business Analyst ro
 ## 👤 Author
 
 **Youssef ElJaouhary**  
-AI & Data Science | Data Analyst  
+AI & Data Science  
 📍 Morocco  
 📧 youssef.eljaouhary@usmba.ac.com
++212 615 671 580
